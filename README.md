@@ -4,6 +4,11 @@
 
 #### _Available for: hh_.
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 NMEALogger is an NMEA data stream logger vessel movement, engine status, water depth, etc.
 
 ### FORMAT
