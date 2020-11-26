@@ -9,9 +9,7 @@ NMEALogger is an NMEA data stream logger vessel movement, engine status, water d
 ### FORMAT.
 
 Date | Time | Altitude | Longitude | Heading | Heading | Speed |  SOG  |  COG | WindSpeeed | WindDirection | Jib# | Spi# | Reef
------------- | ------------- | -------------- | ------------ | ------------ | ----------- | -------| ----- | ---- | ---------- | ------------- | ---- | ---- | ----
-Content from cell 1 | Content from cell 2 | 3rd | 4th
-Content in the first column | Content in the second column
+---------- | -------- | ----------- | ----------- | ------- | ----------- | -------| ----- | ---- | ---------- | ------------- | ---- | ---- | ----
 2021.11.26 | 14:01:25 | N145˚24'30" | E030˚10'20" |   310˚  | 5.3kn | 4.2kn | 305˚ |   12.1kn   |      182˚.    | -    |  A2  |  1  
 2021.11.26 | 14:01:25 | N145˚24'30" | E030˚10'20" |   310˚  | 5.3kn | 4.2kn | 305˚ |   12.1kn   |      182˚.    | -    |  A2  |  1  
 2021.11.26 | 14:01:25 | N145˚24'30" | E030˚10'20" |   310˚  | 5.3kn | 4.2kn | 305˚ |   12.1kn   |      182˚.    | -    |  A2  |  1  
