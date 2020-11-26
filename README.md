@@ -2,11 +2,11 @@
 
 ## NMEA data stream generator.
 
-#### _Available for: hh_.
+#### _Available for: hh_
 
 NMEALogger is an NMEA data stream logger vessel movement, engine status, water depth, etc.
 
-### FORMAT.
+### FORMAT
 
 Date | Time | Altitude | Longitude | HDG | Speed | SOG | COG | TWS | TWA | Jib | Spi | Reef
 ---------- | -------- | ----------- | ----------- | --- | ----- | ----- | ---- | ------ | ---- | ---- | ---- | ----
@@ -15,7 +15,9 @@ Date | Time | Altitude | Longitude | HDG | Speed | SOG | COG | TWS | TWA | Jib |
 2021.11.26 | 14:01:25 | N145˚24'30" | E030˚10'20" | 310˚| 5.3kn | 4.2kn | 305˚ | 12.1kn | 182˚ | -    |  A2  |  1  
 
 
+
 ![image](https://user-images.githubusercontent.com/38519157/75314330-55c95380-58af-11ea-887c-392dcccbea3a.png)
+
 
 
 Installation:
