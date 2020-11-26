@@ -1,10 +1,11 @@
 # NMEA-2000 data logger
 
-## NMEA data stream generator.
+## NMEA data stream is stored on an SD-card.
 
 #### _Available for: hh_
 
-NMEALogger is an NMEA data stream logger vessel movement, engine status, water depth, etc.
+NMEALogger is an NMEA data stream logger for vessel movement, wind conditions, etc.
+Can be used to generate Polar Diagramm.
 
 ### FORMAT
 
