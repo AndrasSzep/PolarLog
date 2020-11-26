@@ -2,12 +2,12 @@
 
 ## NMEA data stream generator.
 
-#### _Available for: Windows, Mac, Linux and Raspberry Pi_.
+#### _Available for: hh_.
 
-NMEASimulator is an NMEA data stream generator to mimic vessel movement, engine status, water depth, etc.
+NMEALogger is an NMEA data stream logger vessel movement, engine status, water depth, etc.
 
 
-![image](https://user-images.githubusercontent.com/38519157/75314330-55c95380-58af-11ea-887c-392dcccbea3a.png)
+.![image](https://user-images.githubusercontent.com/38519157/75314330-55c95380-58af-11ea-887c-392dcccbea3a.png)
 
 
 Installation:
